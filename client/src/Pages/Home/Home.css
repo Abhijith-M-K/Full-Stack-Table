@@ -1,0 +1,23 @@
+.container {
+  padding: 0;
+}
+.btn {
+  padding-left: 50px;
+}
+.add {
+  background: black;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  align-items: center;
+  font-weight: 700;
+}
+.pending {
+  display: flex;
+}
+/* .orders{
+    display: flex;
+} */
